@@ -1,5 +1,3 @@
-##  Hi, I’m Samad Shaikh
----
 ## 🧩 About Me
 I’m interested in understanding data, finding patterns, and communicating insights clearly.  
 I focus on practical analysis and learning through hands-on projects.
