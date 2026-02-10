@@ -1,12 +1,6 @@
-## 👋 Hi, I’m [Your Name]
-
-**Translating data into meaningful insights.**  
-Working with real-world data to support better decisions.
-
+##  Hi, I’m Samad Shaikh
 ---
-
 ## 🧩 About Me
-
 I’m interested in understanding data, finding patterns, and communicating insights clearly.  
 I focus on practical analysis and learning through hands-on projects.
 
@@ -48,9 +42,8 @@ I focus on practical analysis and learning through hands-on projects.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [your LinkedIn link]
-- 📧 Email: [your email]
-- 📊 Kaggle: [your Kaggle link] (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/samadsk317/
+- 📧 Email: samadshaikh22005@gmail.com
 
 ---
 
