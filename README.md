@@ -4,9 +4,11 @@ I’m a **Data Analyst** passionate about building projects, exploring new tools
 
 - 🛠️ Projects I’m building or contributing to  
 - 📊 Interesting data analyses and dashboards  
-- 🌱 Exploring new techniques, tools, and datasets  
+- 🌱 Exploring new techniques, tools, and datasets
 
-Whether you’re here to peek at my work or just curious about data, you’re in the right place! 📍  
+  > *"Data is not useful until it becomes information." – Seth Godin*
+
+Whether you’re here to peek at my work or just curious about data, you’re in the right place📍  
 
 Let’s connect,learn and grow together. Where curiosity meets code and data comes to life. 💻  
 
